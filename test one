@@ -1,0 +1,11 @@
+$(window).load(function () {
+
+  $("#slider4").responsiveSlides ({
+    auto: false,
+    speed: 300,
+    /*timeout: 3600,*/
+    namespace: "callbacks",
+    nav: true
+  });
+
+});
