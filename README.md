@@ -1,4 +1,2 @@
-test
-====
-
-test
+set x=test
+print x
